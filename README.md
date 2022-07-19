@@ -20,9 +20,10 @@
 
 
 ## Training 
-  Dataset : BDD100K + Argumentation(My Paper)
-  Image Size : 640 x 384
-  How to do
+####  Dataset : BDD100K + Argumentation(My Paper)
+####  Image Size : 640 x 384
+####  How to do
+
     1. Download Dataset
     2. Unzip to Data Folder 
     3. Change code line 115 at Train.py file
@@ -33,5 +34,8 @@
     7. Enter the command 'python train.py'
     8. Waiting for training time
     9. The weight file is saved in './USOA/Weight/' folder
+   
+   
+ 
 
 ## Testing 
