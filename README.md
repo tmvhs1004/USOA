@@ -75,7 +75,7 @@ Unified model of Semantic segmentation and Object detection for Autonomous drivi
     6. Change hyper-parameter such as 'batch size' in Config.py file
     7. Open Anaconda Prompt
     8. Cd to USOA folder 
-    7. Enter the command 'python test.py'
-    8. Waiting for testing time
-    9. Inference image is saved in './USOA/Result/output/' folder
+    9. Enter the command 'python test.py'
+    10. Waiting for testing time
+    11. Inference image is saved in './USOA/Result/output/' folder
    
