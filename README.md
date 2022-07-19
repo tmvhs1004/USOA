@@ -22,11 +22,20 @@ Unified model of Semantic segmentation and Object detection for Autonomous drivi
 #### Semantic Segmentation Class : Background, Road(Alternative + Direction)
 
 ## Quick Start
-####  How to do
+####  How to doing?
 
-
+    0. git clone https://github.com/tmvhs1004/USOA or Download zip
+    1. Download trained-weight file (File Link : https://drive.google.com/file/d/1oZSQRVQztqOmNqRiVHUy4ZPkl5XkDfLi/view?usp=sharing )
+    2. Move trained-weight file to './USOA/Weight/END/ ' Folder 
+    3. Open Anaconda Prompt
+    4. Cd to USOA folder 
+    5. Enter the command 'python test.py'
+    6. Waiting for testing time
+    7. Inference image is saved in './USOA/Result/output/' folder
+    
+    
 ## Training
-####  How to do
+####  How to doing?
 
     0. git clone https://github.com/tmvhs1004/USOA or Download zip
     1. Download Dataset (File Link) https://drive.google.com/file/d/1K26G7jKbrsHHoiZ6c-7QRUgo7wFfl5M6/view?usp=sharing
@@ -43,7 +52,7 @@ Unified model of Semantic segmentation and Object detection for Autonomous drivi
    
 
 ## Testing 
-####  How to do
+####  How to doing?
 
     0. git clone https://github.com/tmvhs1004/USOA or Download zip
     1. Download Dataset (File Link : https://drive.google.com/file/d/1Zhe58ERgCIkw9yzQRTR9fmGg7U0EzNuu/view?usp=sharing )
