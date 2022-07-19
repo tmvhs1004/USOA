@@ -7,18 +7,12 @@
 ####  Manage Syatem : Anaconda3
 ####  Package Version
 
-
-
-  1. Python = 3.8.12
-  2. Pytorch = 1.10.1
-  3. Albumentation = 1.0.3
-  4. OpenCV = 4.0.1
-  5. Numpy = 1.22.4
-  6. Pillow = 8.4.0
-
-
-
-
+  - Python = 3.8.12
+  - Pytorch = 1.10.1
+  - Albumentation = 1.0.3
+  - OpenCV = 4.0.1
+  - Numpy = 1.22.4
+  - Pillow = 8.4.0
 
 
 
