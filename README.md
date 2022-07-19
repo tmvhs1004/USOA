@@ -23,10 +23,14 @@ Unified model of Semantic segmentation and Object detection for Autonomous drivi
 
 ## Performance
 
-|a1|a2|a3|
-|---|---|---|
-|b1|b2|b3|
-### Paper Link : 
+|Model|Size|AP(IOU=0.5)|mIoU|FPS(RTX3090)|
+|---|---|---|---|---|
+|YOLOP|640x384|76.5|91.5|46.51|
+|USOA|640x384|76.79|92.57|41.49|
+
+
+
+### Paper Link : Preparing...
 
 ## Quick Start
 ####  How to doing?
