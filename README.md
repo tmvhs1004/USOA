@@ -41,7 +41,7 @@ Unified model of Semantic segmentation and Object detection for Autonomous drivi
 ## Quick Start
 ####  How to doing?
 
-    0. git clone https://github.com/tmvhs1004/USOA or Download zip
+    0. git clone https://github.com/tmvhs1004/USOA or Download zip, Unzip, Change folder name USOA-main to USOA
     1. Download trained-weight file (File Link : https://drive.google.com/file/d/1oZSQRVQztqOmNqRiVHUy4ZPkl5XkDfLi/view?usp=sharing )
     2. Move trained-weight file to './USOA/Weight/END/ ' Folder 
     3. Open Anaconda Prompt
@@ -54,7 +54,7 @@ Unified model of Semantic segmentation and Object detection for Autonomous drivi
 ## Training
 ####  How to doing?
 
-    0. git clone https://github.com/tmvhs1004/USOA or Download zip
+    0. git clone https://github.com/tmvhs1004/USOA or Download zip, Unzip, Change folder name USOA-main to USOA
     1. Download Dataset (File Link) https://drive.google.com/file/d/1K26G7jKbrsHHoiZ6c-7QRUgo7wFfl5M6/view?usp=sharing
     2. Unzip to './USOA/Data/' Folder 
     3. Change code line 115 at Train.py file
@@ -71,7 +71,7 @@ Unified model of Semantic segmentation and Object detection for Autonomous drivi
 ## Testing 
 ####  How to doing?
 
-    0. git clone https://github.com/tmvhs1004/USOA or Download zip
+    0. git clone https://github.com/tmvhs1004/USOA or Download zip, Unzip, Change folder name USOA-main to USOA
     1. Download Dataset (File Link : https://drive.google.com/file/d/1Zhe58ERgCIkw9yzQRTR9fmGg7U0EzNuu/view?usp=sharing )
     2. Unzip to './USOA/Data/' Folder 
     3. Change code line 145 at Test.py file
