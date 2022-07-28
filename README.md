@@ -20,6 +20,11 @@ Unified model of Semantic segmentation and Object detection for Autonomous drivi
 #### Object Detection Class : Vehicle(Car + Bus + Truck + Train )
 #### Semantic Segmentation Class : Background, Road(Alternative + Direction)
 
+## Model Architecture
+![모델구조](https://user-images.githubusercontent.com/60498651/181453260-1a847694-125d-4be1-906e-27591cc5c739.png)
+
+
+
 ## Performance
 
 |Model|Size|AP(IOU=0.5)|mIoU|FPS(RTX3090)|
