@@ -12,8 +12,7 @@ Unified model of Semantic segmentation and Object detection for Autonomous drivi
   - Pytorch = 1.10.1
   - Albumentation = 1.0.3
   - OpenCV = 4.0.1
-  - Numpy = 1.22.4
-  - Pillow = 8.4.0
+  - NVIDIA Driver : 472.47 
 
 #### Train Dataset : BDD100K train set + Argumentation(My Paper)
 #### Test Dataset :  BDD100K Validation set
@@ -37,6 +36,16 @@ Unified model of Semantic segmentation and Object detection for Autonomous drivi
 ![00a04f65-af2ab984](https://user-images.githubusercontent.com/60498651/179733177-cc518f4e-0949-4b37-b4b3-c3251a04e25a.jpg) 
 ![00a04f65-af2ab984](https://user-images.githubusercontent.com/60498651/179733188-b34d3443-66a2-4f79-9ff0-8fc3dbf24b80.png)
 
+
+## How to Install package
+    0. Update Your NVIDIA Graphic Driver 
+    1. Open Anaconda3 prompt
+    2. conda create -n usoa python=3.8.12
+    3. conda activate usoa
+    4. conda install pytorch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 cudatoolkit=11.3 -c pytorch -c conda-forge
+    5. conda install -c anaconda cudnn
+    6. conda install -c fastai albumentations
+ 
 
 ## Quick Start
 ####  How to doing?
