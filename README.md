@@ -25,8 +25,6 @@ Unified model of Semantic segmentation and Object detection for Autonomous drivi
 
 
 ## Inference Video (BDD100K Test)
-![[사진](https://user-images.githubusercontent.com/60498651/182007092-ec49076b-c77d-4e6d-a9e1-d4fd4fee0804.JPG)]
-(https://www.youtube.com/watch?v=rAvok4emD-8)
 
 Daytime : https://www.youtube.com/watch?v=rAvok4emD-8
 
