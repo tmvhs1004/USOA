@@ -24,6 +24,8 @@ Unified model of Semantic segmentation and Object detection for Autonomous drivi
 ![모델구조](https://user-images.githubusercontent.com/60498651/181453260-1a847694-125d-4be1-906e-27591cc5c739.png)
 
 
+![[Video](https://www.youtube.com/watch?v=rAvok4emD-8/0.jpg)](https://www.youtube.com/watch?v=rAvok4emD-8)
+
 
 ## Performance
 
