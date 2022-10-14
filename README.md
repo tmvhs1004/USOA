@@ -1,7 +1,7 @@
 # USOA
 Unified model of Semantic segmentation and Object detection for Autonomous driving
 
-Paper : [https://lib.dongguk.edu/search/detail/CATTOT000001257272](http://dcol.dongguk.edu/public_resource/pdf/000000085008_20221014110046.pdf)
+Paper : https://lib.dongguk.edu/search/media/url/CAT000001257272
 
 ### This description is based on Win10 + Anaconda3
 
