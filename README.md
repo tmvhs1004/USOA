@@ -1,7 +1,7 @@
 # USOA
 Unified model of Semantic segmentation and Object detection for Autonomous driving
 
-Paper : https://lib.dongguk.edu/search/media/url/CAT000001257272
+Paper Link : https://lib.dongguk.edu/search/media/url/CAT000001257272
 
 ### This description is based on Win10 + Anaconda3
 
@@ -45,7 +45,7 @@ Night : https://www.youtube.com/watch?v=m36-rhSQ4cI
 |YOLOP|640x384|76.5|91.5|46.51|
 |USOA|640x384|76.79|92.57|41.49|
 
-### Paper Link : Preparing...
+### Paper Link : (https://lib.dongguk.edu/search/media/url/CAT000001257272)
 
 ## Inference Image Example
 
