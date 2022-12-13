@@ -62,7 +62,7 @@ Night : https://www.youtube.com/watch?v=m36-rhSQ4cI
     3. conda activate usoa
     4. conda install pytorch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 cudatoolkit=11.3 -c pytorch -c conda-forge
     5. conda install -c anaconda cudnn
-    6. conda install -c fastai albumentations
+    6. conda install -c conda-forge albumentations
  
 
 ## Quick Start
